@@ -1,0 +1,513 @@
+vpn账号：
+416T0001
+pXb#@BqY8V
+堡垒机
+https://oma.shanghai-electric.com/shterm/login?logout
+10.0.249.160
+
+
+开发服务器106.14.104.180 administrator A800icAdmin
+106.14.104.180:8080/manager
+
+启动：cd /usr/local/tomcat10/bin && sh startup.sh
+停止：cd /usr/local/tomcat10/bin && sh shutdown.sh
+
+http://139.224.203.63:8090/paas
+
+桶名称：417-mom-qas-01    
+ 
+ 账号：417-mom-qas-user01
+ Key：wN8ctnVBONXz4ONG//V19vozvn0iR4ALN+V7YtZY
+ 
+访问地址：https://ecss3.shanghai-electric.com
+
+db.getCollection("fs.files").find({filename:"测试专用.txt"})
+
+https://chatgpt.qdymys.cn/#/chat/1002
+
+http://wwccoo.com/
+
+
+https://oma.shanghai-electric.com/
+
+416T0003
+RUsxs8!#qy
+
+ljc1795984516
+
+c059d460a04241c387ee3621918b3292
+
+
+me   plan
+
+(module = "数据库操作",descript = "创建单个对象")																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																				
+
+70d98de6-455b-42cc-b477-5dd0c6fef2cfvtRecordQualifieddocx
+70d98de6-455b-42cc-b477-5dd0c6fef2cfvtRecordunQualifieddocx
+
+096d99fd320e40a98ce5a4fedb65dbce	daaa2e93-b841-460e-9b62-864a14b4b22f	["(LF)D1461-44251100-001","(LF)D1461-44251100-002","(LF)D1461-44251100-003","(LF)D1461-44251100-004","(LF)D1461-44251100-005","(LF)D1461-44251100-006"]	张荣华	23TJ07-V-MY001	2023-11-10 13:49:19	2023-11-10 13:49:19	合格				6		23TJ07-V-MY001.pdf	39eabd370ebf407f99aca9f86995ce39			
+
+
+文档密码 666666
+
+http://uatapi.shanghai-electric.com/dce-api-odmapi/api/orgTree 集成
+
+
+
+https://139.224.203.63:8181/svn/bsp/paas
+https://139.224.203.63:8181/svn/bsp/FlashDB
+https://139.224.203.63:8181/svn/leading/saas-leading
+https://139.224.203.63:8181/svn/SpaceCloud/bi-sc
+
+http://10.0.60.37:8848/nacos
+
+http://10.0.60.37:8848/nacos
+
+NCIsHAz/lvTnfrDivKgX3w==
+
+
+JS-(LF)K-1463/1464-8-1-32
+
+JS-(LF)K-1463_1464-8-1-30  C
+JS-(LF)K-1463_1464-5-28-4
+JS-(LF)K-1463_1464-5-28-3 B
+JS-(LF)K-1463_1464-5-28-1
+JS-(LF)K-1463_1464-5-28-2
+JS-(LF)K-1463_1464-5-5-3
+JS-(LF)K-1463_1464-5-5-4
+JS-(LF)K-1463_1464-5-5-2
+JS-(LF)K-1463_1464-5-5-1
+
+<listener>
+		<listener-class>d800.openplatform.timer.TimerTasksListener10</listener-class>
+	</listener>
+	
+开发服务器106.14.104.180 administrator A800icAdmin
+
+\\106.14.104.180
+
+
+用户名：416T0004
+密码：s2B$BZ94D7
+
+账号
+416T0088
+ 密码 
+Mq$VQxN4sf
+
+澄清 CR
+
+String ret = qcRecordBO.getProcessTaskApplicabledocfileByPK_Processtask(processTaskDTO.getPk());
+processTaskDTO.setApplicabledocfile(ret); // 反写适用文件
+
+(module = "技术数据管理",descript = "新增工艺文件出版计划主表")
+http://10.244.39.98:8080
+替换所有lib下的包之前我写过一个脚本，jar文件复制到/tomat/todo/lib目录下，然后执行copylib.sh
+
+#进入目录
+cd /opt/nacos/bin
+#启动nacos
+sh startup.sh -m standalone
+
+ tail -f catalina.out
+
+
+netstat -anp |grep
+
+db = db.getSiblingDB("yijc");
+db.getCollection("mprocess").find({cs:{$gte: new ISODate("2023-4-24T00:00:00Z"),$lte: new ISODate("2023-4-30T00:00:00Z")}});
+
+clazz=d800.me.WorkHourPayDTO
+dbName=oracle
+tbName=me_WorkHourPay
+idfield=PK
+
+
+<servlet>
+		<servlet-name>importMProcess</servlet-name>
+		<servlet-class>d800.pdm.ImportMProcess</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>importMProcess</servlet-name>
+		<url-pattern>/importMProcess</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	
+	
+	[{"operatorName":"卜佳炜","fk_operatorName":"12291","operatorNo":"41600725","operatorTime":"2023-08-15T16:00:00.000Z"},{"operatorName":"蔡炜菘","fk_operatorName":"12457","operatorNo":"41600696","operatorTime":"2023-08-16T16:00:00.000Z"}]
+	
+41600872
+
+
+HSSFCellStyle.BORDER_THIN--- BorderStyle.THIN
+HSSFCellStyle.ALIGN_CENTER --HorizontalAlignment.CENTER
+HSSFCellStyle.VERTICAL_CENTER --VerticalAlignment.CENTER
+
+font.getBoldweight() =》font.getBold()
+font.setBoldweight(Font.BOLDWEIGHT_BOLD);  =》 font.setBold(true);
+
+HSSFCell.CELL_TYPE_STRING--CellType.STRING
+
+
+cd /usr/local/tomcat10/logs && tail -f catalina.out
+<mirror>
+        <id>nexus-aliyun</id>
+        <mirrorOf>central</mirrorOf>
+        <name>Nexus aliyun</name>
+        <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+    </mirror>
+		
+416T0115
+Zl2023@#
+			
+#consul-ip=10.0.249.161
+#106.14.104.180(dev)
+#10.0.60.37(ops)
+#10.0.249.161(test)
+#consul-port=8500
+local-port=8080
+autoCheckRight=false
+admintoken=bsp94NBA
+LocalMode=true
+notoken=loadMyCorps
+FileServiceProvider=S3
+temp=c:/temp
+fontfolder=C:/workspace/paas/fonts
+pub.config=10.0.60.38:80
+fontfolder1=C:/workspace/paas/fonts/usr/local/tomcat10/webapps/export/out/
+linux=/usr/local/tomcat10/webapps/export/out
+//pub.config=10.0.249.161:8080
+pub.paas=10.0.60.38:80
+saas.mdm=10.0.60.38:80
+saas.me=10.0.60.38:80
+saas.common=10.0.60.38:80
+saas.pdm=10.0.60.38:80
+saas.qm=10.0.60.38:80
+saas.plan=10.0.60.38:80
+
+
+plan_manuorderqualityplan
+
+
+
+public List<QcRecordDTO> loadTasksByStatus(String status) throws BizException, AppException {
+		StringBuffer sql = new StringBuffer("select DISTINCT qm.*,inv.NO as invcode,inv.NAME as invname,inv.EXT as props,t4.name projectName,t4.BILLNOWBS projectno ,t3.qualityplani qualityplani,t3.fascicle fascicle,t2.NO processNo,t2.qualityPlanVersion qualityPlanVersion,t6.APPLICABLEDOC procedure,t2.qcplanNo from mdm_invdoc inv, qm_QcRecord qm " +
+				" left join  plan_processtask t2 on qm.FK_PROCESSTASK=t2.pk left join plan_manuorder t3 on t2.FK_MO=t3.PK left join project_project t4 on t4.billnowbs = t3.projectno   left join PDM_QUALITYPLANSON t6  on t2.fk_qualityplan = t6.pk ");
+		sql.append(" where qm.fk_invcode = inv.pk ");
+		if(!StringUtil.isEmpty(status)) {
+			sql.append(" and qm.status = '"+status+"' and qm.recorder like '%" + token.getName() +"%'  order by qm.cs,qm.no");
+		}
+
+		List<QcRecordDTO> qrs = (List<QcRecordDTO>) getSqlsvc().querySql(sql.toString(), SQL.ReturnType.BeanList, QcRecordDTO.class);
+
+
+		if(CollectionUtils.isNotEmpty(qrs)){
+			for (QcRecordDTO qcRecordDTO:qrs) {
+				if (StringUtil.isEmpty(qcRecordDTO.getQualityPlanVersion())){
+					QualityPlanDTO qualityPlan = SaaSFactory.getPlanService().getQualityPlan(qcRecordDTO.getQualityplani(), qcRecordDTO.getFascicle());
+					if (qualityPlan!=null){
+						qcRecordDTO.setQualityPlanVersion(qualityPlan.getVersion());
+					}
+				}
+				if (StringUtil.isEmpty(qcRecordDTO.getProcedure())){
+					QualityPlanSonDTO qualityPlanSonByPK_processtask = SaaSFactory.getPlanService().getQualityPlanSonByPK_Processtask(qcRecordDTO.getFk_processTask());
+					if (qualityPlanSonByPK_processtask!=null){
+						qcRecordDTO.setProcedure(qualityPlanSonByPK_processtask.getApplicableDoc());
+					}
+				}
+			}
+		}
+		return qrs;
+	}
+	
+	if (StringUtil.isEmpty(qcRecordDTO.getQualityPlanVersion())){
+					QualityPlanDTO qualityPlan = SaaSFactory.getPlanService().getQualityPlan(qcRecordDTO.getQualityplani(), qcRecordDTO.getFascicle());
+					if (qualityPlan!=null){
+						qcRecordDTO.setQualityPlanVersion(qualityPlan.getVersion());
+					}
+				}
+	if (StringUtil.isEmpty(qcRecordDTO.getProcedure())){
+					QualityPlanSonDTO qualityPlanSonByPK_processtask = SaaSFactory.getPlanService().getQualityPlanSonByPK_Processtask(qcRecordDTO.getFk_processTask());
+					if (qualityPlanSonByPK_processtask!=null){
+						qcRecordDTO.setProcedure(qualityPlanSonByPK_processtask.getApplicableDoc());
+					}
+				}
+	
+	
+	if (StringUtil.isEmpty(dto.getQcPlanNO())){
+            dto.setQcPlanNO(dto.getProcessNo()+"(工序)");
+        }
+	
+	ALTER TABLE PAAS_ROLERIGHT ENABLE ROW MOVEMENT;
+
+--2、闪回指定时间的快照
+FLASHBACK TABLE PAAS_ROLERIGHT TO TIMESTAMP 
+TO_TIMESTAMP('2024-01-29 09:00:00','yyyy-mm-dd hh24:mi:ss');
+
+--3、关闭表的row movement功能
+ALTER TABLE PAAS_ROLERIGHT DISABLE ROW MOVEMENT;
+
+
+FLASHBACK TABLE MDM_DICT TO BEFORE DROP RENAME TO MDM_DICT11;
+
+
+@Transactional(rollbackFor = Exception.class)
+
+
+系统里用到的完成方法
+FinshQcRecord
+accomplishPTRecord
+accomplishRayRecord
+saveAndFinishRecord
+
+if (!StringUtil.isEmpty(dto.getResult())){
+			if (QmConsts.QmCheckedResult_Qualified.equals(dto.getResult().trim())){
+				partNo2=null;
+			}
+		}
+	
+清洁度 saveCleanliness
+超声 saveChaoshengRecord
+液体渗透 savePTRecord
+射线 saveRayRecord
+目视 saveVisualBO	
+
+if (StringUtils.isNotBlank(qcRecordItemssDTO.getStartDate()) && StringUtils.isNotBlank(qcRecordItemssDTO.getEndDate())){
+            StringBuffer checkDate=new StringBuffer();
+            checkDate.append(qcRecordItemssDTO.getStartDate()+"~");
+            checkDate.append(qcRecordItemssDTO.getEndDate());
+            dto.setCheckDate(checkDate.toString());
+        }else if (StringUtils.isNotBlank(qcRecordItemssDTO.getStartDate())){
+            dto.setCheckDate(qcRecordItemssDTO.getStartDate());
+        }else if (StringUtils.isNotBlank(qcRecordItemssDTO.getEndDate())){
+            dto.setCheckDate(qcRecordItemssDTO.getEndDate());
+        } else {
+            dto.setCheckDate(DateUtil.getCurrentDate());
+        }
+
+public  String  creatQcReport(ProcessTaskDTO pt, String checkType,Map<String, String> map,ProcessTaskDTO pt1) throws BizException,AppException{
+		QcRecordDTO qrAcesss = null ;
+		String tag="是否特殊检验";
+
+		String sqlCirculation="select * from QM_QCrecord where fk_processtask='"+pt.getPk() +"' and type1='报工检'  and status !='退回'  and  fpk_qcrecord  is not null ";
+		QcRecordDTO qcRecordDTOCirculation=(QcRecordDTO)sqlsvc.querySql(sqlCirculation, SQL.ReturnType.Bean, QcRecordDTO.class);
+		if (qcRecordDTOCirculation!=null){
+			return null;
+		}
+		ManuOrderDTO mo = planService.loadManuOrderByPk(pt.getFk_mo());
+		
+		InvdocDTO inv = mdmService.loadInvdocByPk(mo.getFk_invcode());
+
+		if (!StringUtil.isEmpty(mo.getInvdocDrawno())){
+			TechnicalDocumentManagerDTO technicalDocumentManagerDTO = pdmService.queryTechnicalDocumentManagerByFileNO(mo.getInvdocDrawno());
+			if(technicalDocumentManagerDTO != null) {
+				pt.setInvdocDrawno(technicalDocumentManagerDTO.getFileno());
+				pt.setInvdocDrawNoVersion(technicalDocumentManagerDTO.getVersion());
+				sqlsvc.update(pt);
+			}
+		}
+
+
+
+		//判断是否设置了检验职责且一个物料的物料类别只有一个生产过程检验职责
+		QcDivisionDTO qd = loadQcDivisionsByInv(inv.getFpk(),mo.getDeptname(),pt.getName());
+//		if (qd == null){
+//			qd=(QcDivisionDTO)sqlsvc.load(QcDivisionDTO.class,"9727d48552434c32997eee5d6b2de477");
+//		}
+		QcStandardDTO stand = loadProcessStand(inv.getPk(),pt);
+		if (stand ==null){
+			tag="是";
+			stand=loadProcessStand1(QmConsts.QmBillType_SPECIAL_Record);
+		}else{
+			tag="否";
+		}
+		//return null;//1。没检验分工就不检验
+//		if (qd==null){
+//			throw new AppException("特殊检验模板不存在");
+//		}
+		String fks_recorder = qd==null?" ":qd.getFks_recorder();
+		String recorder =qd==null?"系统管理员": qd.getRecorder();
+		//判断是否设置了生产过程检验标准且一个工序对应只有一个生产过程检验标准
+		//QcStandardDTO stand = loadProcessStand(inv.getPk(),pt);
+		//if(stand==null)
+		//return null;//2.如果没有检验标准则不检验
+		List<QcStandardItemDTO> qcItems = stand.getItems();
+
+		qrAcesss = new QcRecordDTO();
+		if (mo!=null){
+			String invCodeStr = pctNdtBO2.getInvCodeStr(mo.getPk());
+			qrAcesss.setPartNo(invCodeStr);
+		}
+
+		String uuid = UUID.randomUUID().toString();
+		qrAcesss.setPk(uuid);
+		qrAcesss.setFk_qcStandard(stand.getPk());
+		qrAcesss.setFk_invcode(mo.getFk_invcode()); //外键_物料
+		qrAcesss.setNo(qcReportrule());//检验单号
+		//qrAcesss.setReportNo(qcNOrule(pt.getPk()));
+		qrAcesss.setInvcode(mo.getInvcode());//物料编码
+		qrAcesss.setInvname(mo.getInvname());//物料名称
+		qrAcesss.setProps(inv.getExt());//物料属性
+		qrAcesss.setProcessStep(pt.getNo().toString() + pt.getName());//工序(30 装配)
+		qrAcesss.setFk_processTask(pt.getPk()); //外键_工序任务
+
+			qrAcesss.setFk_processTask1(pt1.getPk());
+		if (!StringUtil.isEmpty(checkType)){
+			if (checkType.equals(QmConsts.QcRecordStatus_Sign)){
+				String sql="select * from QM_QCrecord where fk_processtask='"+pt1.getPk() +"' and type1='报工检'  and status !='退回'";
+				QcRecordDTO qcRecordDTO=(QcRecordDTO)sqlsvc.querySql(sql, SQL.ReturnType.Bean, QcRecordDTO.class);
+				if (qcRecordDTO!=null){
+					qrAcesss.setFk_processTask1(qcRecordDTO.getFk_processTask1());
+				}
+
+			}
+		}
+		if (tag.equals("是")){
+			qrAcesss.setType2(QmConsts.QmBillType_SPECIAL_Record);
+			//qrAcesss.setClazz(null);
+		}
+		System.out.println(stand.getCheckSample());
+		if(QmConsts.QmQc_ExemptFromInspection.equals(stand.getCheckSample())) {
+			qrAcesss.setCheckSample(QmConsts.QmQc_ExemptFromInspection);//采样方法（取自数字字典）
+			qrAcesss.setCheckMethod(stand.getCheckMethod());//检验方法（取自数字字典）
+			qrAcesss.setCheckerType(stand.getCheckerType());//检验方式（取自数字字典）
+			qrAcesss.setResult(QmConsts.QmCheckedResult_Qualified);//检验结论（合格/不合格/部分合格）
+			qrAcesss.setStatus(QmConsts.QmRecord_Status_Checked);//状态（待检、检验中、已检）
+			qrAcesss.setChecknum(pt.getNum());//检验总数。
+			if (!StringUtil.isEmpty(checkType)){
+				if (checkType.equals(QmConsts.QmQcrecordType_ShouJian)){
+					qrAcesss.setType1(QmConsts.QmQcrecordType_ShouJian);
+					qrAcesss.setSampleNum(1.0);//样本数
+					qrAcesss.setChecknum(1.0);//检验总数。
+				}
+			}
+			//qrAcesss.setSampleNum(stand.getSampleNum());//样本数
+			qrAcesss.setSampleNum(pt.getNum());//样本数
+			qrAcesss.setOknum(pt.getNum());//合格数
+			qrAcesss.setNgnum(0.0);//不合格数。 当合格数不是空时，不合格数=检验总数-合格数
+			qrAcesss.setFks_recorder(fks_recorder);//外键_检验责任人(staff)，默认分工
+			qrAcesss.setRecorder(recorder);//检验人(先默认，检验后更新为实际检验人)
+			//外键_实际检验人id(staff)
+			qrAcesss.setFk_checker(getToken().getPk_staff());
+			qrAcesss.setFk_srcbill(mo.getPk());//外键_来源业务单据
+			qrAcesss.setSrcbillno(mo.getSourceOrderno());//来源业务单据号
+			qrAcesss.setMemo(mo.getMemo());//备注
+			qrAcesss.setFk_creator(stand.getFk_creator());//外键_委托人用户pk
+			qrAcesss.setCreator(stand.getCreator());//委托人（姓名）
+			qrAcesss.setCs(DateUtil.getCurrentDatetime());//委托时间
+		} else {
+			qrAcesss.setCheckSample(stand.getCheckSample());//采样方法（取自数字字典）
+			qrAcesss.setCheckTarget(QmConsts.QmQc_Standard_ProductionProcessInspection);//检验类型(取自数字字典)
+			qrAcesss.setCheckMethod(stand.getCheckMethod());//检验方法（取自数字字典）
+			qrAcesss.setCheckerType(stand.getCheckerType());//检验方式（取自数字字典）
+			qrAcesss.setChecknum(pt.getNum());//检验总数。
+			qrAcesss.setType1(QmConsts.QmQcrecordType_ReportWork);
+			qrAcesss.setSampleNum(pt.getNum());//样本数
+			qrAcesss.setFks_recorder(fks_recorder);//外键_检验责任人(staff)，默认分工
+			qrAcesss.setRecorder(recorder);//检验人(先默认，检验后更新为实际检验人)
+			qrAcesss.setFk_srcbill(mo.getPk());//外键_来源业务单据
+			qrAcesss.setFk_checker(getToken().getPk_staff());
+			qrAcesss.setSrcbillno(mo.getSourceOrderno());//来源业务单据号
+			qrAcesss.setStatus(QmConsts.QmRecord_Status_OnCheck);//状态（待检、检验中、已检）
+			qrAcesss.setMemo(mo.getMemo());//备注
+			if (!StringUtil.isEmpty(checkType)){
+				if (checkType.equals(QmConsts.QmQcrecordType_ShouJian)){
+					qrAcesss.setType1(QmConsts.QmQcrecordType_ShouJian);
+					qrAcesss.setSampleNum(1.0);//样本数
+					qrAcesss.setChecknum(1.0);//检验总数。
+				}
+				if (checkType.equals(QmConsts.QmQcrecordType_fenpi)){
+					qrAcesss.setFpk_qcRecord("notnull");
+				}
+			}
+			qrAcesss.setFk_creator(stand.getFk_creator());//外键_委托人用户pk
+			qrAcesss.setCreator(stand.getCreator());//委托人（姓名）
+			qrAcesss.setCs(DateUtil.getCurrentDatetime());//委托时间
+
+			if(stand.getFiles()!=null && stand.getFiles().size()>0) {
+				qrAcesss.setStadFiles(stand.getFiles());
+			}
+
+			List<ProdCodeDTO> prod = planService.loadProdCodeByPlan(pt.getFk_mo(),null);
+			if(prod!=null && prod.size()>0) {
+				qrAcesss.setProdcodes(prod);
+			}
+
+			if(qcItems != null && qcItems.size()>0) {
+				qrAcesss.setStandItems(qcItems);
+			}
+
+		}
+//		//理化无损检测
+//		if (pt.getName().equals("液体渗透检查")||pt.getName().equals("布氏硬度")||pt.getName().equals("洛氏硬度")||pt.getName().equals("维氏硬度")) {
+//			if (pctNdtBO2.isPctNdt(pt.getName())) {
+//				pctNdtBO2.createTask(pt,uuid);
+//			}
+//		}
+
+		/**
+		 * 外协检验--丁应
+		 */
+
+		if(checkType.equals(QmConsts.QmCheckType_OutSource)) {
+			qrAcesss.setType1(QmConsts.QmCheckType_OutSource);
+		}
+
+		String pk = (String) sqlsvc.create(qrAcesss);
+		createItems(stand,qrAcesss,mo);//创建子项
+		map.put(mo.getPk(), qrAcesss.getPk());
+
+
+		LogDO log = new LogDO();
+		log.setSrc("d800.QcTaskAgent.creatQcReport"); //日志源
+		log.setTitle("创建检验单");  //日志标题
+		log.setOperate("创建检验单"); //日志操作
+		log.setOperator(getToken().getName()); //操作人
+		log.setType(LogDO.TYPE_USER); //日志类别
+		log.setBilltype("创建检验单");
+		log.setBillid(pt.getPk()); //关联的业务id
+		log.setBillno(mo.getSourceOrderno()); //关联的业务单据号
+		List in = new ArrayList<>();
+		in.add(pk);
+		in.add(pt);
+		in.add(pt1);
+		log.setIn(JSONUtil.toJSON(in)); //入参
+		List out = new ArrayList<>();
+		log.setResult(LogDO.RESULT_OK); //结果
+		SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		Date startDate;
+		try {
+			startDate = simpleDateFormat.parse(DateUtil.getCurrentDatetime());
+		} catch (ParseException e) {
+			e.printStackTrace();
+			throw new AppException(e.getMessage());
+		}
+		log.setStartTime(startDate); //操作开始时间
+		out.add(qrAcesss);
+		log.setOut(JSONUtil.toJSON(out)); //出参
+		List message1 = new ArrayList<>();
+		String messageold = "检验工序：";
+		message1.add(messageold);
+		message1.add(pt);
+		List message = new ArrayList<>();
+		message.add(message1);
+		String messagenew = "报工工序：";
+		List message2 = new ArrayList<>();
+		message2.add(messagenew);
+		message2.add(pt1);
+		message.add(message2);
+		log.setMessage(JSONUtil.toJSON(message)); //消息
+		logService.log(log);
+
+		return pk;
+
+	}
+	
+	examineQc
+approvePermeate
+@Transactional(rollbackFor = Exception.class)
+
+
